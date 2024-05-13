@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nitish2004kumar
+- 👋 Hi, I’m Nitish kumar
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Computer Science 
 - 💞️ I’m looking to collaborate on challenging projects
