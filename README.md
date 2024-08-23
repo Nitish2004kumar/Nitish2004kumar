@@ -66,7 +66,7 @@ You can click the Preview link to take a look at your changes.
 
 
   
-</p>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish2004kumar&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -74,6 +74,5 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nitish2004kumar&theme=radical&hide_border=false)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
-
 
 
