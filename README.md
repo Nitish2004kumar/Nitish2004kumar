@@ -56,11 +56,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish2004kumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nitish2004kumar&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Nitish2004kumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
